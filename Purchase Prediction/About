@@ -1,0 +1,2 @@
+Task: Given a tabular dataset, predict whether the customer will make a purchase or not.
+Model: Logistic Regression
